@@ -16,11 +16,13 @@ There seems to be a lack of easy to use- 360 video playback for the desktop. Esp
 -Toggle Fullscreen
 
 **Openframeworks**
-To compile, requires Openframeworks 0.9.2
-Tested on OSX 10.10 but should work anywhere.
+Copy to myApps, requires addon 
+-ofxDatGui - http://braitsch.github.io/ofxDatGui
 
-Requires addon - 
-ofxDatGui - http://braitsch.github.io/ofxDatGui
+*During compile the contents of the data folder is copied into the app folder, therefore making the app portable - no need to drag along the data folder.*
+
+Built using Openframeworks 0.9.2
+Tested on OSX 10.10 but should work on 10.8+
 
 **Interaction:**
 
